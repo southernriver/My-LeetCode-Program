@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Valid Palindrome", "Valid Palindrome\Valid Palindrome.vcxproj", "{6AA07D45-6700-41CB-BB29-0582A1B7DD85}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Implement strStr()", "Implement strStr()\Implement strStr().vcxproj", "{F245DEE8-5F72-41E5-9847-98725AE1EA3A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Palindromic Substring", "Longest Palindromic Substring\Longest Palindromic Substring.vcxproj", "{9AD93AE8-4CF6-4468-9279-88317EF503CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AA07D45-6700-41CB-BB29-0582A1B7DD85}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6AA07D45-6700-41CB-BB29-0582A1B7DD85}.Debug|Win32.Build.0 = Debug|Win32
+		{6AA07D45-6700-41CB-BB29-0582A1B7DD85}.Release|Win32.ActiveCfg = Release|Win32
+		{6AA07D45-6700-41CB-BB29-0582A1B7DD85}.Release|Win32.Build.0 = Release|Win32
+		{F245DEE8-5F72-41E5-9847-98725AE1EA3A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F245DEE8-5F72-41E5-9847-98725AE1EA3A}.Debug|Win32.Build.0 = Debug|Win32
+		{F245DEE8-5F72-41E5-9847-98725AE1EA3A}.Release|Win32.ActiveCfg = Release|Win32
+		{F245DEE8-5F72-41E5-9847-98725AE1EA3A}.Release|Win32.Build.0 = Release|Win32
+		{9AD93AE8-4CF6-4468-9279-88317EF503CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9AD93AE8-4CF6-4468-9279-88317EF503CB}.Debug|Win32.Build.0 = Debug|Win32
+		{9AD93AE8-4CF6-4468-9279-88317EF503CB}.Release|Win32.ActiveCfg = Release|Win32
+		{9AD93AE8-4CF6-4468-9279-88317EF503CB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

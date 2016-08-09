@@ -1,0 +1,14 @@
+﻿生成启动时间为 2016/4/18 11:13:58。
+     1>项目“L:\LeetCode\Regular Expression Matching\Regular Expression Matching\Regular Expression Matching.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>l:\leetcode\regular expression matching\regular expression matching\源.cpp(17): warning C4715: “isMatch”: 不是所有的控件路径都返回值
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"L:\LeetCode\Regular Expression Matching\Debug\Regular Expression Matching.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"L:\LeetCode\Regular Expression Matching\Debug\Regular Expression Matching.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"L:\LeetCode\Regular Expression Matching\Debug\Regular Expression Matching.lib" /MACHINE:X86 "Debug\源.obj"
+         Regular Expression Matching.vcxproj -> L:\LeetCode\Regular Expression Matching\Debug\Regular Expression Matching.exe
+     1>已完成生成项目“L:\LeetCode\Regular Expression Matching\Regular Expression Matching\Regular Expression Matching.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.81

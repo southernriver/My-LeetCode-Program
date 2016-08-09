@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Letter Combinations of a Phone Number", "Letter Combinations of a Phone Number\Letter Combinations of a Phone Number.vcxproj", "{9D85192D-0A8D-4A49-A06E-216F4A289033}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{E712B4B1-3F3E-458B-83D8-0CCD2B40C56C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test1", "test1\test1.vcxproj", "{7CC8E64D-DD2F-463D-9FC5-E4050265ED7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D85192D-0A8D-4A49-A06E-216F4A289033}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9D85192D-0A8D-4A49-A06E-216F4A289033}.Debug|Win32.Build.0 = Debug|Win32
+		{9D85192D-0A8D-4A49-A06E-216F4A289033}.Release|Win32.ActiveCfg = Release|Win32
+		{9D85192D-0A8D-4A49-A06E-216F4A289033}.Release|Win32.Build.0 = Release|Win32
+		{E712B4B1-3F3E-458B-83D8-0CCD2B40C56C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E712B4B1-3F3E-458B-83D8-0CCD2B40C56C}.Debug|Win32.Build.0 = Debug|Win32
+		{E712B4B1-3F3E-458B-83D8-0CCD2B40C56C}.Release|Win32.ActiveCfg = Release|Win32
+		{E712B4B1-3F3E-458B-83D8-0CCD2B40C56C}.Release|Win32.Build.0 = Release|Win32
+		{7CC8E64D-DD2F-463D-9FC5-E4050265ED7E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7CC8E64D-DD2F-463D-9FC5-E4050265ED7E}.Debug|Win32.Build.0 = Debug|Win32
+		{7CC8E64D-DD2F-463D-9FC5-E4050265ED7E}.Release|Win32.ActiveCfg = Release|Win32
+		{7CC8E64D-DD2F-463D-9FC5-E4050265ED7E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

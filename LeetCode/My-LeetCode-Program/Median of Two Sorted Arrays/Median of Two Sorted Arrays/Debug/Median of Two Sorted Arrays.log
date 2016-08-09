@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/4/15 16:25:06。
+     1>项目“L:\LeetCode\Median of Two Sorted Arrays\Median of Two Sorted Arrays\Median of Two Sorted Arrays.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>l:\leetcode\median of two sorted arrays\median of two sorted arrays\源.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+     1>l:\leetcode\median of two sorted arrays\median of two sorted arrays\源.cpp(20): warning C4018: “>=”: 有符号/无符号不匹配
+     1>l:\leetcode\median of two sorted arrays\median of two sorted arrays\源.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+     1>l:\leetcode\median of two sorted arrays\median of two sorted arrays\源.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"L:\LeetCode\Median of Two Sorted Arrays\Debug\Median of Two Sorted Arrays.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"L:\LeetCode\Median of Two Sorted Arrays\Debug\Median of Two Sorted Arrays.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"L:\LeetCode\Median of Two Sorted Arrays\Debug\Median of Two Sorted Arrays.lib" /MACHINE:X86 "Debug\源.obj"
+         Median of Two Sorted Arrays.vcxproj -> L:\LeetCode\Median of Two Sorted Arrays\Debug\Median of Two Sorted Arrays.exe
+     1>已完成生成项目“L:\LeetCode\Median of Two Sorted Arrays\Median of Two Sorted Arrays\Median of Two Sorted Arrays.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.67

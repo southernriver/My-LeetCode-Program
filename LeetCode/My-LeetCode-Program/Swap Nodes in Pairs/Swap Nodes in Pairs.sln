@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Swap Nodes in Pairs", "Swap Nodes in Pairs\Swap Nodes in Pairs.vcxproj", "{F5EBD855-9E6E-461D-A987-B19AF8B92B1D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表测试", "链表测试\链表测试.vcxproj", "{12CB1EC2-DC45-495F-A478-4FBE7A82981D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EBD855-9E6E-461D-A987-B19AF8B92B1D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5EBD855-9E6E-461D-A987-B19AF8B92B1D}.Debug|Win32.Build.0 = Debug|Win32
+		{F5EBD855-9E6E-461D-A987-B19AF8B92B1D}.Release|Win32.ActiveCfg = Release|Win32
+		{F5EBD855-9E6E-461D-A987-B19AF8B92B1D}.Release|Win32.Build.0 = Release|Win32
+		{12CB1EC2-DC45-495F-A478-4FBE7A82981D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12CB1EC2-DC45-495F-A478-4FBE7A82981D}.Debug|Win32.Build.0 = Debug|Win32
+		{12CB1EC2-DC45-495F-A478-4FBE7A82981D}.Release|Win32.ActiveCfg = Release|Win32
+		{12CB1EC2-DC45-495F-A478-4FBE7A82981D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

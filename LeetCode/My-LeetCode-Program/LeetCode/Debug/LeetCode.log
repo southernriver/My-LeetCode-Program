@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/3/10 14:59:33。
+     1>项目“L:\LeetCode\LeetCode\LeetCode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>l:\leetcode\leetcode\threesum.h(2): error C2143: 语法错误 : 缺少“;”(在“<”的前面)
+     1>l:\leetcode\leetcode\threesum.h(2): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>l:\leetcode\leetcode\threesum.h(2): error C2334: “{”的前面有意外标记；跳过明显的函数体
+     1>l:\leetcode\leetcode\源.cpp(59): error C2039: “threeSum”: 不是“Solute”的成员
+                 l:\leetcode\leetcode\threesum.h(1) : 参见“Solute”的声明
+     1>已完成生成项目“L:\LeetCode\LeetCode\LeetCode.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.71

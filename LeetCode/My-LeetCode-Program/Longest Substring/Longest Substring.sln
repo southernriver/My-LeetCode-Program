@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Substring", "Longest Substring\Longest Substring.vcxproj", "{E9807E18-FE0F-43E6-9D0E-AF9D5BCC90B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "贪心算法", "贪心算法\贪心算法.vcxproj", "{4BB6F68E-BD00-47C3-B898-6624C3E5D605}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyTest", "MyTest\MyTest.vcxproj", "{64D9686F-1E65-4333-A8BA-D655B96E0410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9807E18-FE0F-43E6-9D0E-AF9D5BCC90B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9807E18-FE0F-43E6-9D0E-AF9D5BCC90B3}.Debug|Win32.Build.0 = Debug|Win32
+		{E9807E18-FE0F-43E6-9D0E-AF9D5BCC90B3}.Release|Win32.ActiveCfg = Release|Win32
+		{E9807E18-FE0F-43E6-9D0E-AF9D5BCC90B3}.Release|Win32.Build.0 = Release|Win32
+		{4BB6F68E-BD00-47C3-B898-6624C3E5D605}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4BB6F68E-BD00-47C3-B898-6624C3E5D605}.Debug|Win32.Build.0 = Debug|Win32
+		{4BB6F68E-BD00-47C3-B898-6624C3E5D605}.Release|Win32.ActiveCfg = Release|Win32
+		{4BB6F68E-BD00-47C3-B898-6624C3E5D605}.Release|Win32.Build.0 = Release|Win32
+		{64D9686F-1E65-4333-A8BA-D655B96E0410}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64D9686F-1E65-4333-A8BA-D655B96E0410}.Debug|Win32.Build.0 = Debug|Win32
+		{64D9686F-1E65-4333-A8BA-D655B96E0410}.Release|Win32.ActiveCfg = Release|Win32
+		{64D9686F-1E65-4333-A8BA-D655B96E0410}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
